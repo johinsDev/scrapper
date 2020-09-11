@@ -1,0 +1,12 @@
+{"name":"Trucha Mariposa Pescado Inst","price":"Sin precio","images":["IMaga"],"provider":"frubana"}
+{"name":"Filete de Tilapia Pescado Inst","price":"Sin precio","images":["IMaga"],"provider":"frubana"}
+{"name":"Camarón Precocido Pescado Inst","price":"Sin precio","images":["IMaga"],"provider":"frubana"}
+{"name":"Camarón Crudo Pescado Inst","price":"Sin precio","images":["IMaga"],"provider":"frubana"}
+{"name":"Mojarra Roja Pescado Inst","price":"Sin precio","images":["IMaga"],"provider":"frubana"}
+{"name":"Filete de Salmón Pescado Inst","price":"Sin precio","images":["IMaga"],"provider":"frubana"}
+{"name":"Posta de Bagre Pescado Inst","price":"Sin precio","images":["IMaga"],"provider":"frubana"}
+{"name":"Filete de Basa Pescado Inst","price":"Sin precio","images":["IMaga"],"provider":"frubana"}
+{"name":"Mixtura de Mariscos Pescado Inst","price":"Sin precio","images":["IMaga"],"provider":"frubana"}
+{"name":"Posta de Basa Pescado Inst","price":"Sin precio","images":["IMaga"],"provider":"frubana"}
+{"name":"Filete de Dorado Pescado Inst","price":"Sin precio","images":["IMaga"],"provider":"frubana"}
+{"name":"Filete de Atún Pescadao Inst","price":"Sin precio","images":["IMaga"],"provider":"frubana"}
